@@ -1,0 +1,1 @@
+This is a Data Access and Manipulation design made using Miro. It uses the Data Access Object pattern, which separates database logic from business logic. This improves maintainability and makes the system easier to test
